@@ -1,0 +1,17 @@
+ .addTodoButtonStyle {
+        padding: 4px 20px;
+        text-align: center;
+        margin: 4px 2px;
+        outline: none;
+        cursor: pointer;
+        border: none;
+        font-size: 35px;
+        background-color: w3-blue
+ }
+.addTodoButtonStyle:hover {background-color: #09a7eb}
+
+.addTodoButtonStyle:active {
+         background-color: #18e609;
+         box-shadow: 0 2px #666;
+         transform: translateY(6px);
+}

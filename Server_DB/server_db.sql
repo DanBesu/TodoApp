@@ -1,0 +1,13 @@
+CREATE TABLE todo(
+	
+	id INTEGER PRIMARY KEY,
+	done BOOLEAN,
+	text TEXT
+);
+
+
+CREATE TABLE category(
+
+	id INTEGER PRIMARY KEY,
+	color TEXT
+);
