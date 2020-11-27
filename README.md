@@ -4,7 +4,7 @@ Daily tasks manager
 - Spring
 - Rest Api
 - Java
-- SQL
+- PostgreSQL
 - JavaScript
 - HTML
 - CSS
